@@ -35,7 +35,7 @@ public class FloaterItemView: UIView {
         imageView.contentMode = .scaleAspectFit
         imageView.tintColor = UIColor.white
         
-        titleLabel.backgroundColor = UIColor.white
+        titleLabel.backgroundColor = UIColor.clear
         titleLabel.textColor = UIColor.darkText
         titleLabel.layer.cornerRadius = 4
         titleLabel.numberOfLines = 1
