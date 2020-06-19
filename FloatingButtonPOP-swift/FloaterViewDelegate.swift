@@ -18,7 +18,7 @@ private let buttonPadding: Int = 65
 private let mainButtonTrailingConstraint: CGFloat = 25
 
 // Change these variable for button to give its respective bottom constraint
-private let mainButtonBottomConstraint: CGFloat = 40
+private let mainButtonBottomConstraint: CGFloat = 70
 
 // Change these variable for space between label and button
 private let distanceBetweenTitleLabelAndButtonConstraint: CGFloat = 10
