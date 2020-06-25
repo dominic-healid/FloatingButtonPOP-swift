@@ -41,7 +41,7 @@ public class FloaterItemView: UIView {
         titleLabel.numberOfLines = 1
         titleLabel.adjustsFontSizeToFitWidth = true
         titleLabel.textAlignment = .right
-        titleLabel.font = UIFont(name: "HelveticaNeue-Light", size: 20)
+        titleLabel.font = UIFont(name: "HelveticaNeue-Light", size: 15)
         titleLabel.layer.masksToBounds = true
         
         itemButton.setTitle("", for: .normal)
