@@ -9,10 +9,10 @@
 import UIKit
 
 // Change these variable for Button heigth and width
-private let buttonHeigthAndWidth: CGFloat = 50
+private let buttonHeigthAndWidth: CGFloat = 25
 
 // Chnage these variable for distance between two buttons
-private let buttonPadding: Int = 65
+private let buttonPadding: Int = 40
 
 // Change these variable for button to give its respective trailing constraint
 private let mainButtonTrailingConstraint: CGFloat = 25
