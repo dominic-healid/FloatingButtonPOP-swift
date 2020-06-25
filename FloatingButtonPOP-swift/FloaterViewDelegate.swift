@@ -9,7 +9,7 @@
 import UIKit
 
 // Change these variable for Button heigth and width
-private let buttonHeigthAndWidth: CGFloat = 25
+private let buttonHeigthAndWidth: CGFloat = 35
 
 // Chnage these variable for distance between two buttons
 private let buttonPadding: Int = 40
